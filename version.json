@@ -1,0 +1,14 @@
+{
+    "latest":  "1.0.1",
+    "download_url":  "https://github.com/PIayer001/GPWCore/releases/download/v1.0.1/GPWCore-Setup-1.0.1.exe",
+    "sha256":  "9232BF0BCBB87476000ACE87851B7FDD55977D8792882060B483C2FB2CEFB1E9",
+    "release_date":  "2026-11-25",
+    "minimum_version":  "1.0.0",
+    "file_size_mb":  68,
+    "changelog":  [
+                      "Prima versione di GPWCore by GPUWORLD"
+                  ],
+    "is_mandatory":  false,
+    "release_notes_url":  "https://github.com/PIayer001/GPWCore/releases/tag/v1.0.1",
+    "signature":  "rGZWbsC/m5wUuf+guwsv/PK/tHh/2ZuvXkcpIhBgcSMFA6rJrJc69K06T8JdvCpJiSJqI9X6iWcbo4C4pydsRQ=="
+}
