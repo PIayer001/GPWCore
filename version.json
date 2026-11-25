@@ -1,14 +1,15 @@
 {
-    "latest":  "1.0.1",
-    "download_url":  "https://github.com/PIayer001/GPWCore/releases/download/v1.0.1/GPWCore-Setup-1.0.1.exe",
-    "sha256":  "9232BF0BCBB87476000ACE87851B7FDD55977D8792882060B483C2FB2CEFB1E9",
+    "latest":  "1.0.2",
+    "download_url":  "https://github.com/PIayer001/GPWCore/releases/download/v1.0.2/GPWCore-Setup-1.0.2.exe",
+    "sha256":  "3F5F515CF877D5875D92E4020BCD01CAD477A64E348F41DEC6C71AC208727AEB",
     "release_date":  "2026-11-25",
     "minimum_version":  "1.0.0",
     "file_size_mb":  68,
     "changelog":  [
-                      "Prima versione di GPWCore by GPUWORLD"
+                      "Piano energetico GPWCore con nome e descrizione propri",
+                      "Corretto un errore nell\u0027applicazione del piano energetico"
                   ],
     "is_mandatory":  false,
-    "release_notes_url":  "https://github.com/PIayer001/GPWCore/releases/tag/v1.0.1",
-    "signature":  "rGZWbsC/m5wUuf+guwsv/PK/tHh/2ZuvXkcpIhBgcSMFA6rJrJc69K06T8JdvCpJiSJqI9X6iWcbo4C4pydsRQ=="
+    "release_notes_url":  "https://github.com/PIayer001/GPWCore/releases/tag/v1.0.2",
+    "signature":  "EW8gHjYcsMtRlx5zGvb6Qxso+qGij4pc0mQIA77NdB/fGi/S/d9MssXexRnhQEOsEl7UuxsTzHY/t0t7HF8CXQ=="
 }
