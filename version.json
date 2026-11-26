@@ -1,15 +1,14 @@
 {
-    "latest":  "1.0.2",
-    "download_url":  "https://github.com/PIayer001/GPWCore/releases/download/v1.0.2/GPWCore-Setup-1.0.2.exe",
-    "sha256":  "3F5F515CF877D5875D92E4020BCD01CAD477A64E348F41DEC6C71AC208727AEB",
-    "release_date":  "2026-11-25",
+    "latest":  "1.0.3",
+    "download_url":  "https://github.com/PIayer001/GPWCore/releases/download/v1.0.3/GPWCore-Setup-1.0.3.exe",
+    "sha256":  "AC0CCD7DC969AA251522ECB8038AFEC92BB640242D99D71B772A3A57BB57C374",
+    "release_date":  "2026-11-26",
     "minimum_version":  "1.0.0",
     "file_size_mb":  68,
     "changelog":  [
-                      "Piano energetico GPWCore con nome e descrizione propri",
-                      "Corretto un errore nell\u0027applicazione del piano energetico"
+                      "Nuovo pulsante Attiva licenza nel menu, sopra Impostazioni"
                   ],
     "is_mandatory":  false,
-    "release_notes_url":  "https://github.com/PIayer001/GPWCore/releases/tag/v1.0.2",
-    "signature":  "EW8gHjYcsMtRlx5zGvb6Qxso+qGij4pc0mQIA77NdB/fGi/S/d9MssXexRnhQEOsEl7UuxsTzHY/t0t7HF8CXQ=="
+    "release_notes_url":  "https://github.com/PIayer001/GPWCore/releases/tag/v1.0.3",
+    "signature":  "PtO9gkF7PU27kGwms6u8PYHJzhInryFPiurzRRU1kcpAJ8pgye/SICBW0oUwbFXcblgxnCxsWMJ/ddGFzeK47w=="
 }
